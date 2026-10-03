@@ -23,7 +23,7 @@ https://github.com/benjaminkitema77-cyber/portfolio-fake.git
 
 ## How to Run Locally
 
-1. Clone the repository:
+1. Clone the repository
 
    bash
 git clone https://github.com/benjaminkitema77-cyber/portfolio-fake.git
