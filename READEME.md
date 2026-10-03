@@ -4,7 +4,7 @@ A single-page personal portfolio website built using HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-https://github.com/benjaminkitema77-cyber/portfolio-fake.git
+
 
 ## Features
 
@@ -26,4 +26,4 @@ https://github.com/benjaminkitema77-cyber/portfolio-fake.git
 1. Clone the repository
 
    bash
-git clone https://github.com/benjaminkitema77-cyber/portfolio-fake.git
+git clone https://github.com/benjaminkitema77-cyber/fake-portfolio.git
