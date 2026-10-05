@@ -6,7 +6,7 @@ const testimonials = [
     },
     {
         name: "peter mwene",
-        message: "Benjamin has shown great progress in web development."
+        message: "Peter mwene has shown great progress in web development."
     },
     {
         name: "Michael Brown",

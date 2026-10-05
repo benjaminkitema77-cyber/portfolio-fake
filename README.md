@@ -27,3 +27,7 @@ A single-page personal portfolio website built using HTML, CSS, and JavaScript.
 
    bash
 git clone https://github.com/benjaminkitema77-cyber/fake-portfolio.git
+
+## What i have learnt
+
+- I learnt how HTML, CSS and Javascript work together to make a website, i also learnt how js can  be used to add content to a particular page.
